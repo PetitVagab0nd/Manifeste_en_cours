@@ -4,3 +4,6 @@ Ce repositery permet de le completer et de le modifier pour tenter d'être le pl
 C'est l'état un l'instant t de ma pensée vagabonde
 
 Tim
+
+#### Note
+Le site [Hackmd.io](https://hackmd.io) est un éditeur en ligne libre et gratuit pour éditer des fichiers '.md' et permet de compiler ses fichiers sur GitHub
