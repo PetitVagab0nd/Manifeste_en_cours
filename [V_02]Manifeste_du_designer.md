@@ -3,6 +3,9 @@
 * **Être designer c'est créer des alternatives** <br> *Être designer c'est être décalé et inutile*
 C'est essayer de donner corps à une utopie personnelle sans tenir compte de sa réalisation technique ni de sa compréhension.
 * **Être designer être léger** <br> *Être designer c'est être flou et superficiel*
+
+> C'est ouvrir parfois des pettites possibilités différentes et réussir à les transmettre aux autres
+
 C'est être incompétant en conscience, et créer des moments en surface qui peine à dépasser l'incompréhension où l’absurdité.
 * **Être designer c'est planter des graines pour une société meilleurs** <br> *Être designer c'est être futile*
 C'est être incapable d'observer des impacts concret à cours termes et projeter des implications longtaine peut-être fictive.
