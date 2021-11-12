@@ -47,25 +47,3 @@ Avant tout un design de la nuance.
 Un designer, bas, très bas et même petit qui pense en détail.
 <br>
 <br>
-
-
-
-
-
-
-
-### *Brouillon*
-
-* S'amuser
-* Être disponible à tous, tout le temps
-* Aller à la rencontre des habitantes et habitants d'un lieu
-* Rater
-* Recommencer pour refaire
-* Rendre visible sa démarche
-* Bidouiller seul et à plusieurs
-* Inviter et inclure les motivé.e.s
-
-
-* Pour un design décentralisé, qui s'autonomise, qui évolue, qui fluctue, un design du partage, un design commun, appropriable par toutes et tous, un design disponible, ouvert
-* Un design de la fuite, de la trace, de la traque
-* pour un design de la souffrance ?
