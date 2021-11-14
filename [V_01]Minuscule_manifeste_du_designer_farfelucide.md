@@ -13,6 +13,7 @@ C'est voler le temps auquel personne n'a le droit pour s'amuser.
 * **Principe n°2**
 Être designer c'est être disponible.
 A toutes, à tous, partout, tout le temps.
+C'est nul
 
 * **Principe n°5**
 Être designer c'est être au service des autres.
