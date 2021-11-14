@@ -1,6 +1,9 @@
 # Minuscule manifeste du designer farfelucide
-
 > ## *Des bidouilles foireuses pour des rencontres fructueuses !*
+
+
+[![hackmd-github-sync-badge](https://hackmd.io/SZIoRzELTzWcACG6Zgez_w/badge)](https://hackmd.io/SZIoRzELTzWcACG6Zgez_w)
+
 
 * **Principe n°1**
 Un designer est collectif.
