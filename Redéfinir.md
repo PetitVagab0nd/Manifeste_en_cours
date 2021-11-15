@@ -1,4 +1,7 @@
-# Transmettre - Designer sans produire
+###### tags: `reflexion` `design`
+# Transmettre - designer sans produire
+
+
 
 > Peut-être qu'un certain designer à toute sa place dans une multiplicité de projets: dans la conception, le prototypage, la forme, même la communication pour des ateliers, pour assurer la visibilité d'un lieu ou pour des missions de sensibilisation... <br>
 Mais mes récentes visites dans des tiers-lieux m'ont fait entrevoir une autre place que j'aimerais essayer.
@@ -20,3 +23,5 @@ médiateur-accompagnateur-facilitateur si vraiment on veut y mettre un mot, qui 
 de design qui s'inscrit aussi dans cette vision du réseau, un voyage dérivant de rencontre en rencontre, à l'écoute, rebondissant et aidant les idées partagées par les citoyennes et citoyens, un designer disponible à l'imprévu et aux autres.
 
 #### > Un designer qui aide à rendre communs à défaut de faire communs (transmettre plutôt que produire). 
+
+[![hackmd-github-sync-badge](https://hackmd.io/EBtaMylCTJ-gnz0RX3sLOg/badge)](https://hackmd.io/EBtaMylCTJ-gnz0RX3sLOg)
