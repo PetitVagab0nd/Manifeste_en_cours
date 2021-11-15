@@ -1,0 +1,22 @@
+# Transmettre - Designer sans produire
+
+> Peut-être qu'un certain designer à toute sa place dans une multiplicité de projets: dans la conception, le prototypage, la forme, même la communication pour des ateliers, pour assurer la visibilité d'un lieu ou pour des missions de sensibilisation... <br>
+Mais mes récentes visites dans des tiers-lieux m'ont fait entrevoir une autre place que j'aimerais essayer.
+
+**Un designer qui vient accompagner**
+à l’échelle de la structure et du fonctionnement d'un projet plus qu’à l’échelle de la production de projet.
+Un besoin et un place pour s’occuper de faire et d'entretenir un réseau local et au-delà, qui existe déjà parcellement.
+
+**Une nécessité de faire et créer du lien**
+pour identifier, transmettre et mutualiser ce qui peut l’être pour contribuer au partage (soit la mise en réseau) de commun.
+Un acteur extérieur capable de prendre ce temps d'identification, de formalisation, de clarté et de transmission d'un réseau, mais aussi un créateur de liens pertinents et constructifs.
+
+
+**Un designer - ...**
+médiateur-accompagnateur-facilitateur si vraiment on veut y mettre un mot, qui apporte les briques liantes d'un réseau. 
+
+
+**Une démarche** 
+de design qui s'inscrit aussi dans cette vision du réseau, un voyage dérivant de rencontre en rencontre, à l'écoute, rebondissant et aidant les idées partagées par les citoyennes et citoyens, un designer disponible à l'imprévu et aux autres.
+
+#### > Un designer qui aide à rendre communs à défaut de faire communs (transmettre plutôt que produire). 
