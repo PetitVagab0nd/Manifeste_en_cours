@@ -3,8 +3,10 @@
 # Manifeste en cours
 
 Ce repository (stockage d'informations numériques) est la forme actuelle et en constante réactualisation de ce que je ne suis pas sûr d'appeler 'manifeste du designer'.
+<br>
 
 [Version Github](https://github.com/PetitVagab0nd/Manifeste_en_cours)
+<br>
 [Version HackMd](https://hackmd.io/AuvuAEdLQj27bV6WtBdX2Q)
 
 <br>
