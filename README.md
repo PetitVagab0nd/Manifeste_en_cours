@@ -51,7 +51,7 @@ L'objectif y est de témoigner d'un processus de pensée et non d'une idée abou
 
 
 #### Partie 00 : Introduction
-- ++Manifeste en cours++ > <br>[![hackmd-github-sync-badge](https://hackmd.io/AuvuAEdLQj27bV6WtBdX2Q/badge)](https://hackmd.io/AuvuAEdLQj27bV6WtBdX2Q)
+- ++Manifeste en cours++ > <br> [![hackmd-github-sync-badge](https://hackmd.io/AuvuAEdLQj27bV6WtBdX2Q/badge)](https://hackmd.io/AuvuAEdLQj27bV6WtBdX2Q)
 <br>
 <br>
 
